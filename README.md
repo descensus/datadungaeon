@@ -23,7 +23,11 @@ Other
 
 # Example usage
 
+Create a database.
+
 Set your environment variables, append a sequential integer for multiple devices, then start the application.
+
+Database tables will be created automatically.
 
 ```
 export DATADUNGAEON_DB_HOST=
