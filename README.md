@@ -25,6 +25,7 @@ Other
 
 Set your environment variables, append a sequential integer for multiple devices, then start the application.
 
+```
 export DATADUNGAEON_DB_HOST=
 export DATADUNGAEON_DB_PORT=
 export DATADUNGAEON_DB_USERNAME=
@@ -49,3 +50,4 @@ export AQARA_TEMPERATURE0="garage/office-temp"
 export AQARA_TEMPERATURE1="mansion/vardagsrum-temp"
 
 export POCSAG0="pocsag/pocsag01"
+```
