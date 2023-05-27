@@ -2,8 +2,11 @@
 <p align="center">
   <img src="datadungaeon.png" />
 </p>
+
+
 # Data dung aeon..datadungaeon
 MQTT datasucker (sensors etc) that feeds the subscribed topics into a database such as MySQL/MariaDB.
+
 Useful if you just want your data in a plain stupid SQL database.
 
 # Support
