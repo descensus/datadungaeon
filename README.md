@@ -19,7 +19,7 @@ Aqara sensors
 - power plug
 
 Other
-- Pocsag-message from pocsag pilemaster.
+- Pocsag-message from (pocsag pilemaster)[https://github.com/descensus/pocsag-pilemaster].
 
 # Example usage
 
